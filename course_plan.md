@@ -43,7 +43,7 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 
 ### Using filldown
 
-<https://www.youtube.com/watch?v=ucC157zuXdA>
+<https://www.youtube.com/watch?v=ucC157zuXdA> (1:23)
 
 **Case Study 1 – Creating a Project**
 
@@ -80,7 +80,11 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 
 ### 2-13: Assigning Roles and Resources
 
-<https://www.youtube.com/watch?v=9_BfJgzixrE> (2:20 - 9:35)
+<https://www.youtube.com/watch?v=9_BfJgzixrE> (2:20 - 9:34)
+
+Manual Resource Allocation
+
+<https://www.youtube.com/watch?v=Zzv9YSMLoPA> (9:35)
 
 *Try It: Assign Roles:* <https://docs.oracle.com/cd/F18867_01/assign_roles/index.html>
 
@@ -88,11 +92,33 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 
 *Try It: Add Resource Lag and Resource Duration:* <https://docs.oracle.com/cd/F18867_01/add_lag/index.html>
 
+*Try It: Assign a Curve to a Resource Assignment:* <https://docs.oracle.com/cd/F18867_01/assign_curve/index.html>
+
+*Try It: Resource Bucket Planning:* <https://docs.oracle.com/cd/F18867_01/resource_buckets/index.html>
+
 ### 2-14: Optimizing the Project Plan
 
 Analyzing schedule dates, Shortening a project schedule
 
-<https://www.youtube.com/watch?v=6PQhirzOySQ>
+<https://www.youtube.com/watch?v=6PQhirzOySQ> (7:27)
+
+Analyzing Resource Usage, Resolve overallocation (from 7:30)
+
+<https://www.youtube.com/watch?v=pXGXzgWyNF4> (12:32)
+
+Leveling Resources
+
+<https://www.youtube.com/watch?v=ZD55N0xbkbs> (10:54)
+
+*Try It: Optimize the Project:* <https://docs.oracle.com/cd/F18867_01/optimize/index.html>
+
+*Try It: View Resource Allocation:* <https://docs.oracle.com/cd/F18867_01/view_allocation/index.html>
+
+*Try It: Resolve Resource Allocation:* <https://docs.oracle.com/cd/F18867_01/resolve_allocation/index.html>
+
+*Try It: Level Resources:* <https://docs.oracle.com/cd/F18867_01/level_resources/index.html>
+
+*Try It: Level Based on Priority:* <https://docs.oracle.com/cd/F18867_01/level_priority/index.html>
 
 **Case Study 2 – Optimizing the Project**
 
