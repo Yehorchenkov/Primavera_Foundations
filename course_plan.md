@@ -124,13 +124,29 @@ Leveling Resources
 
 ## Topic 3
 
-### 3-15: Baselining the Project Plan
+### 3-15: Baselining the Project Plan (slide)
+
+<https://www.youtube.com/watch?v=s5z_bcmppCY> (5:19)
+
+*Try It: Baseline the Project:* <https://docs.oracle.com/cd/F18867_01/baseline/index.html>
 
 ### 3-16: Importing and Exporting Data
 
-### 3-17: Methods of Applying Progress
+<https://www.youtube.com/watch?v=Dh7ak8E3MXE> (6:19)
+
+### 3-17: Methods of Applying Progress (slide)
+
+<https://www.youtube.com/watch?v=Wjv5TeOj24E> (0 - 4:35)
 
 ### 3-18: Executing the Project Plan
+
+<https://www.youtube.com/watch?v=Wjv5TeOj24E> (4:35 - 10:17)
+
+Updating Activities via Auto Compute Actuals
+
+<https://www.youtube.com/watch?v=ZHCFRlxMBPY> (2:33)
+
+*Try It: Execute the Project:* <https://docs.oracle.com/cd/F18867_01/execute/index.html>
 
 ### 3-19: Reflection Project
 
@@ -140,5 +156,12 @@ Leveling Resources
 
 **Case Study 3 – Project Execution and Control**
 
+## Additional materials
+
+### Administration: Users and Security
+
+<https://www.youtube.com/watch?v=QwdKFqxVJ3E> (12:38)
+
 ## Appendix
+
 **Projects A, B, C**
