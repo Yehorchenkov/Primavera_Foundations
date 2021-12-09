@@ -31,6 +31,7 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 *Try It: Create the WBS:* <https://docs.oracle.com/cd/F18867_01/create_wbs/index.html>
 
 ### 1-6: Adding Activities (slides)
+
 <https://www.youtube.com/watch?v=49RUdDbZbRM> (3:30 - 6:50)
 
 *Try It: Add Activities:* <https://docs.oracle.com/cd/F18867_01/add_activities/index.html>
@@ -41,7 +42,7 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 
 *Try It: Add a Calendar:* <https://docs.oracle.com/cd/F18867_01/add_calendar/index.html>
 
-### Using filldown
+Using filldown
 
 <https://www.youtube.com/watch?v=ucC157zuXdA> (1:23)
 
@@ -62,6 +63,7 @@ Creating Layouts, Customizing, Saving Layouts: <https://www.youtube.com/watch?v=
 *Try It: Schedule the Project:* <https://docs.oracle.com/cd/F18867_01/schedule/index.html>
 
 ### 2-10: Assigning Constraints
+
 <https://www.youtube.com/watch?v=A-GL5HjUUl4> (7:25 - 9:35)
 
 *Try It: Assign Constraints:* <https://docs.oracle.com/cd/F18867_01/assign_constraints/index.html>
@@ -142,23 +144,43 @@ Leveling Resources
 
 <https://www.youtube.com/watch?v=Wjv5TeOj24E> (4:35 - 10:17)
 
+Calculating percent complete
+
+<https://www.youtube.com/watch?v=dx1jyw03U38> (8:03)
+
 Updating Activities via Auto Compute Actuals
 
 <https://www.youtube.com/watch?v=ZHCFRlxMBPY> (2:33)
+
+Removing progress from a Schedule
+
+<https://www.youtube.com/watch?v=q8LUm5SrWLw>
 
 *Try It: Execute the Project:* <https://docs.oracle.com/cd/F18867_01/execute/index.html>
 
 ### 3-19: Reflection Project
 
-### 3-20: Analyzing the Updates Project
+<https://www.youtube.com/watch?v=BWhXBH9ILz8> (3:31)
+
+### 3-20: Analyzing the Updates Project (slides)
 
 ### 3-21: Reporting Performance
+
+<https://www.youtube.com/watch?v=zEtBJPsCVMI> (8:30)
+
+Earned Value
+
+<https://www.youtube.com/watch?v=Fmd3ykmWjv8> (13:24)
+
+Duration Types
+
+<https://www.youtube.com/watch?v=PgSdxIgqUJ8> (9:58)
 
 **Case Study 3 – Project Execution and Control**
 
 ## Additional materials
 
-### Administration: Users and Security
+Administration: Users and Security
 
 <https://www.youtube.com/watch?v=QwdKFqxVJ3E> (12:38)
 
